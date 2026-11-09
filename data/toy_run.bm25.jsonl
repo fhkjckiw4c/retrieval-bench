@@ -1,0 +1,8 @@
+{"query_id": "q1", "doc_id": "d1", "score": 12.5}
+{"query_id": "q1", "doc_id": "d7", "score": 10.0}
+{"query_id": "q1", "doc_id": "d3", "score": 8.8}
+{"query_id": "q2", "doc_id": "d9", "score": 9.1}
+{"query_id": "q2", "doc_id": "d2", "score": 8.2}
+{"query_id": "q2", "doc_id": "d5", "score": 6.0}
+{"query_id": "q3", "doc_id": "d3", "score": 7.3}
+{"query_id": "q3", "doc_id": "d6", "score": 7.1}
